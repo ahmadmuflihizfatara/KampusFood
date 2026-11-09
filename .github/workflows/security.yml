@@ -1,4 +1,9 @@
-on : [pull_request]
+name: Security Checks
+
+on:
+  pull_request:
+  workflow_dispatch:
+
 jobs:
   security:
     runs-on: ubuntu-latest
