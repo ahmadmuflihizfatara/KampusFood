@@ -14,4 +14,4 @@ Melindungi data transaksi klien dengan aman
 Melindungi setiap log yang tercatat pada setiap aktivitas dan transaksi pada aplikasi dari peretasan dan pencurian
 
 **SR-5 Error Handling**
-Aplikasi wajib menerapkan penanganan error terutama ketika proses transaksi
+Aplikasi wajib menerapkan penanganan error terutama ketika proses transaksi.
